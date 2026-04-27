@@ -29,3 +29,16 @@ and dependency visibility across suppliers, components, SKUs, factories, and inv
 - SKU → USES_COMPONENT → Component
 - Component → SOURCED_FROM → Supplier
 - SKU → MANUFACTURED_AT → Factory
+
+  
+## Tech Stack
+
+- Neo4j Aura
+- Cypher
+- CSV-based ingestion
+  
+## Next Steps
+
+- Inventory risk and days-of-cover derivations
+- Supplier impact analysis
+- Derived decision-oriented data products

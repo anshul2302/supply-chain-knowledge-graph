@@ -1,0 +1,4 @@
+component_id,component_type,description
+CMP-CPU-I7,CPU,Intel Core i7 Processor
+CMP-RAM-16GB,RAM,16GB DDR5 Memory
+CMP-SSD-1TB,SSD,1TB NVMe SSD

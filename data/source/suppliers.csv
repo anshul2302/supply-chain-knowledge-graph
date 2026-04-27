@@ -1,0 +1,5 @@
+supplier_id,name,country,component_type,lead_time_days,risk_rating
+SUP-001,Intel,USA,CPU,45,Low
+SUP-002,AMD,USA,CPU,50,Medium
+SUP-003,Samsung,South Korea,RAM,30,Low
+SUP-004,Western Digital,Taiwan,SSD,40,Medium

@@ -1,0 +1,4 @@
+factory_id,name,country,city,monthly_capacity,quality_score
+FAC-01,Foxconn Chennai,India,Chennai,50000,92
+FAC-02,Foxconn Shenzhen,China,Shenzhen,80000,89
+FAC-03,Flex Penang,Malaysia,Penang,40000,90

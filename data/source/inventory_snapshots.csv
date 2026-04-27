@@ -1,0 +1,4 @@
+snapshot_date,sku_id,warehouse_id,available_qty,blocked_qty,avg_daily_sales
+2026-04-10,SKU-101,WH-01,1200,100,90
+2026-04-10,SKU-102,WH-02,400,50,50
+2026-04-10,SKU-201,WH-01,300,20,40
